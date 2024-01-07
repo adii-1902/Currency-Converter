@@ -3,6 +3,9 @@ Effortlessly convert currencies with this user-friendly tool! Stay updated on gl
 <br>
 <h3>This is built using HTML, CSS, JavaScript</h3>
 
+<a href="https://currency-converter-six-zeta.vercel.app/"> Check website here </a>
+<br>
+
 ![img1](https://github.com/adii-1902/Currency-Converter/assets/132136362/9324bcc1-75bf-412c-8bdc-305e7ef86fc7)
 
 ![img2](https://github.com/adii-1902/Currency-Converter/assets/132136362/f1dd9389-6fa6-43a6-a428-e5d6b4ea590c)
